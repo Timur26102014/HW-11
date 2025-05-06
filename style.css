@@ -1,0 +1,11 @@
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    border: 1px solid rgb(22, 165, 236);
+}
+img{
+    height: 200px;
+    
+}
